@@ -1,127 +1,132 @@
 {
-  "basics": {
-    "name": "Rose Bautista",
-    "label": "Student",
-    "picture": "https://rosecb.github.io/images/rose.jpg",
-    "email": "rosecb@hawaii.edu",
-    "phone": "",
-    "website": "https://rosecb.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems in Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Rose Bautista",
+      "label":"Student",
+      "picture":"https://rosecb.github.io/images/rose.jpg",
+      "email":"rosecb@hawaii.edu",
+      "phone":"",
+      "website":"https://rosecb.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems in Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"rosecb",
+            "url":"http://github.com/rosecb"
+         },
+         {
+            "network":"linkedin",
+            "username":"rosebautista",
+            "url":"http://linkedin.com/in/rosecbautista"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "rosecb",
-        "url": "http://github.com/rosecb"
+         "name":"design",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "rosebautista",
-        "url": "http://linkedin.com/in/rosecbautista"
+         "name":"drawing",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"journalling",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"digital media",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "design",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "drawing",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "journalling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "digital media",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Software",
-      "level": "",
-      "keywords": [
-        "Procreate on iPad",
-        "Figma on Mac",
-        "Microsoft Office (Excel, Word, Access & Powerpoint)",
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Git/GitHub",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Shidler College of Business - University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Dr. Lili K. Horton, DMD",
-      "position": "Front Desk Receptionist",
-      "website": "",
-      "startDate": "2019-08",
-      "endDate": "2020-02",
-      "summary": "",
-      "highlights": [
-        "Assisted the Doctor by keeping track of incoming visitors and patients",
-        "Collected cash, check and credit card payments",
-        "Communicated with visitors, patients, and parents to help them with any questions, calls, or appointments"
-      ]
-    },
-  ],
-  "volunteer": [
-    {
-      "organization": "Kokua Kalihi Valley",
-      "website": "",
-      "position": "Office Assistant Volunteer",
-      "startDate": "2018-03",
-      "endDate": "2018-04",
-      "summary": "",
-      "highlights": [
-        "Responsible for filing and collecting papers",
-        "Organized and sort through various documents",
-        "Assisted with any basic office tasks that needed to be done"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2018-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Software",
+         "level":"",
+         "keywords":[
+            "Procreate on iPad",
+            "Figma on Mac",
+            "Microsoft Office (Excel, Word, Access & Powerpoint)"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "MacOS",
+            "Git/GitHub"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Shidler College of Business - University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Spring, 2022)",
+         "studyType":"B.B.A.",
+         "startDate":"2018",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Dr. Lili K. Horton, DMD",
+         "position":"Front Desk Receptionist",
+         "website":"",
+         "startDate":"2019-08",
+         "endDate":"2020-02",
+         "summary":"",
+         "highlights":[
+            "Assisted the Doctor by keeping track of incoming visitors and patients",
+            "Collected cash, check and credit card payments",
+            "Communicated with visitors, patients, and parents to help them with any questions, calls, or appointments"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Kokua Kalihi Valley",
+         "website":"",
+         "position":"Office Assistant Volunteer",
+         "startDate":"2018-03",
+         "endDate":"2018-04",
+         "summary":"",
+         "highlights":[
+            "Responsible for filing and collecting papers",
+            "Organized and sort through various documents",
+            "Assisted with any basic office tasks that needed to be done"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"B+ Scholarship",
+         "date":"2018-Present",
+         "awarder":"State of Hawaii",
+         "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
